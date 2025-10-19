@@ -26,7 +26,9 @@
 - 🧲 Физика
 - 💻 Информатика
 - 📺 Техника
-- 👾 Видеоигры ([Профиль Steam](https://steamcommunity.com/id/cezartop1gg))
+- 👾 Видеоигры
+
+  [![Профиль Steam](https://img.shields.io/badge/Профиль_Steam-0a1b2b?style=for-the-badge&logo=steam&logoColor=1b9fff)](https://steamcommunity.com/id/cezartop1gg)
 ## 🥇 Мои навыки
 **Примечание.** Данный список будет расширен, так как я буквально новичок в теме программирования, хотя некоторые так не считают🙃
 1. **Программирование💻**
