@@ -58,5 +58,6 @@
 2. [**TG**](https://t.me/thrchkng)
 3. [**Телеграм-канал**](https://t.me/rchkngdm)
 4. [**Репозиторий**](https://github.com/thrchkng/thevibeking)
+5. [**GitVerse репозиторий**](https://gitverse.ru/thrchkng/thevibeking)
 ## 📋 Структура проекта
 ***Проектов нет, но вы деритесь***
