@@ -16,7 +16,7 @@ def find_digit_simple_explained(n):
     
     return int(digit)
 
-# Примеры использования
+# Примеры применения
 if __name__ == "__main__":
     # Быстрые примеры
     examples = [1, 5, 10, 15, 20, 100]

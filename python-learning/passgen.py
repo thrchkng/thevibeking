@@ -3,7 +3,7 @@ import string
 import secrets
 import pyperclip  # для копирования в буфер обмена
 
-def generate_secure_password(length=16, use_uppercase=True, use_lowercase=True, 
+def generate_secure_password(length=20, use_uppercase=True, use_lowercase=True, 
                            use_digits=True, use_special=False):
     """
     Генерирует безопасный пароль с настройками
