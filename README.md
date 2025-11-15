@@ -60,4 +60,9 @@
 4. [**Репозиторий**](https://github.com/thrchkng/thevibeking)
 5. [**GitVerse репозиторий**](https://gitverse.ru/thrchkng/thevibeking)
 ## 📋 Структура проекта
-***Проектов нет, но вы деритесь***
+```markdown
+thevibeking/
+├── python-learning/                # все проекты
+│   ├── set of pet projects         # все пет проекты
+└── README.md                       # этот файл
+```
