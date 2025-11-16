@@ -63,6 +63,15 @@
 ```markdown
 thevibeking/
 ├── python-learning/                # все проекты
-│   ├── set of pet projects         # все пет проекты
+│   ├── fridge.py
+│   ├── gallows.py
+│   ├── passgen.py
+│   ├── russianroulette.py
+│   ├── gigfind.py
+│   ├── requirements.txt
+│   ├── anonvalentine.py
+│   ├── doodle.py
+│   ├── practicing.py
+│   ├── simplecalc.py
 └── README.md                       # этот файл
 ```
