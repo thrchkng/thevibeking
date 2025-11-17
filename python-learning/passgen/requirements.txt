@@ -1,0 +1,1 @@
+pip install pyperclip #для копирования в буфер обмена
