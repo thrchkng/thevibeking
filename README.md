@@ -65,7 +65,6 @@ thevibeking/
 ├── python-learning/                # все проекты
 │   ├── fridge.py
 │   ├── gallows.py
-│   ├── passgen.py
 │   ├── gigfind.py
 │   ├── requirements.txt
 │   ├── anonvalentine.py
@@ -73,8 +72,11 @@ thevibeking/
 │   ├── practicing.py
 │   ├── simplecalc.py
 ├── src/
-│   ├── russian_roulette/
+│   ├── russian_roulette/           # Русская рулетка 
 │   │   ├── russianroulette.py
+│   │   ├── requirements.txt
+│   ├── passgen/                    # Генератор паролей
+│   │   ├── passgen.py
 │   │   ├── requirements.txt
 └── README.md                       # этот файл
 ```
