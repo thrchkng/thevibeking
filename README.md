@@ -66,12 +66,15 @@ thevibeking/
 │   ├── fridge.py
 │   ├── gallows.py
 │   ├── passgen.py
-│   ├── russianroulette.py
 │   ├── gigfind.py
 │   ├── requirements.txt
 │   ├── anonvalentine.py
 │   ├── doodle.py
 │   ├── practicing.py
 │   ├── simplecalc.py
+├── src/
+│   ├── russian_roulette/
+│   │   ├── russianroulette.py
+│   │   ├── requirements.txt
 └── README.md                       # этот файл
 ```
