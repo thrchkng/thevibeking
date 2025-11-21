@@ -62,16 +62,9 @@
 ## 📋 Структура проекта
 ```markdown
 thevibeking/
-├── python-learning/                # все проекты
-│   ├── fridge.py
-│   ├── gallows.py
-│   ├── gigfind.py
-│   ├── requirements.txt
-│   ├── anonvalentine.py
-│   ├── doodle.py
-│   ├── practicing.py
-│   ├── simplecalc.py
 ├── src/
+│   ├── practicing/
+│   │   ├── touchingtheclasses.py   # Первое взаимодействие с классами
 │   ├── russian_roulette/           # Русская рулетка 
 │   │   ├── russianroulette.py
 │   │   ├── requirements.txt
