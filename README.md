@@ -63,10 +63,11 @@
 ```markdown
 thevibeking/
 ├── src/
-│   ├── 
-│   ├── viselitsa/
+│   ├── text_encrypter/             # Шифратор Евклида
+│   │   ├── textencrypter.py
+│   ├── viselitsa/                  # Игра "Виселица"
 │   │   ├── gallows.py
-│   ├── practicing/
+│   ├── practicing/     
 │   │   ├── touchingtheclasses.py   # Первое взаимодействие с классами
 │   ├── russian_roulette/           # Русская рулетка 
 │   │   ├── russianroulette.py
