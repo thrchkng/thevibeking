@@ -63,6 +63,8 @@
 ```markdown
 thevibeking/
 ├── src/
+│   ├── fridge/                     # Холодильник
+│   │   ├── fridge.py
 │   ├── text_encrypter/             # Шифратор Евклида
 │   │   ├── textencrypter.py
 │   ├── viselitsa/                  # Игра "Виселица"
