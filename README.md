@@ -63,6 +63,9 @@
 ```markdown
 thevibeking/
 ├── src/
+│   ├── 
+│   ├── viselitsa/
+│   │   ├── gallows.py
 │   ├── practicing/
 │   │   ├── touchingtheclasses.py   # Первое взаимодействие с классами
 │   ├── russian_roulette/           # Русская рулетка 
