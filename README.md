@@ -63,6 +63,8 @@
 ```markdown
 thevibeking/
 ├── src/
+│   ├── digit_finder/               # Программадля нахождения цифры числа
+│   │   ├── digfind.py
 │   ├── doodle_jump/                # Дудл джамп
 │   │   ├── doodle.py
 │   │   ├── requirements.txt
