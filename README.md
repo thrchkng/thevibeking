@@ -63,11 +63,14 @@
 ```markdown
 thevibeking/
 ├── src/
+│   ├── doodle_jump/                # Дудл джамп
+│   │   ├── doodle.py
+│   │   ├── requirements.txt
 │   ├── fridge/                     # Холодильник
 │   │   ├── fridge.py
 │   ├── text_encrypter/             # Шифратор Евклида
 │   │   ├── textencrypter.py
-│   ├── viselitsa/                  # Игра "Виселица"
+│   ├── visetlitsa/                  # Игра "Виселица"
 │   │   ├── gallows.py
 │   ├── practicing/     
 │   │   ├── touchingtheclasses.py   # Первое взаимодействие с классами
