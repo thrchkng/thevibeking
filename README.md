@@ -63,6 +63,9 @@
 ```markdown
 thevibeking/
 ├── src/
+│   ├── anonymous_valentines/
+│   │   ├── anonvalentine.py        # Телегра-бот для анонимных сообщений
+│   │   ├── requirements.txt
 │   ├── simple_calculator/          # Калькулятор с интерфейсом
 │   │   ├── simplecalc.py
 │   ├── digit_finder/               # Программадля нахождения цифры числа
