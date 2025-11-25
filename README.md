@@ -63,7 +63,7 @@
 ```markdown
 thevibeking/
 ├── src/
-│   ├── weather_informer/        
+│   ├── weather_informer/          # Телеграм-бот информирующий о погоде в выбранном месте
 │   │   ├── main.py
 │   │   ├── requirements.txt
 │   │   ├── storage.py
