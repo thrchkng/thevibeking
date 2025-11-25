@@ -63,6 +63,13 @@
 ```markdown
 thevibeking/
 ├── src/
+│   ├── weather_informer/        
+│   │   ├── main.py
+│   │   ├── requirements.txt
+│   │   ├── storage.py
+│   │   ├── weather.py
+│   │   ├── bot.py
+│   │   ├── main.py
 │   ├── anonymous_valentines/
 │   │   ├── anonvalentine.py        # Телегра-бот для анонимных сообщений
 │   │   ├── requirements.txt
