@@ -63,36 +63,41 @@
 ```markdown
 thevibeking/
 ├── src/
+│   ├── tic_tac_toe/               # Игра "Крестики-нолики"
+│   │   ├── gameparts/
+│   │   │   ├── exceptions.py
+│   │   │   └── parts.py
+│   │   └── game.py
 │   ├── weather_informer/          # Телеграм-бот информирующий о погоде в выбранном месте
 │   │   ├── main.py
 │   │   ├── requirements.txt
 │   │   ├── storage.py
 │   │   ├── weather.py
 │   │   ├── bot.py
-│   │   ├── main.py
+│   │   └──main.py
 │   ├── anonymous_valentines/
 │   │   ├── anonvalentine.py        # Телегра-бот для анонимных сообщений
-│   │   ├── requirements.txt
+│   │   └── requirements.txt
 │   ├── simple_calculator/          # Калькулятор с интерфейсом
-│   │   ├── simplecalc.py
+│   │   └── simplecalc.py
 │   ├── digit_finder/               # Программадля нахождения цифры числа
-│   │   ├── digfind.py
+│   │   └── digfind.py
 │   ├── doodle_jump/                # Дудл джамп
 │   │   ├── doodle.py
-│   │   ├── requirements.txt
+│   │   └── requirements.txt
 │   ├── fridge/                     # Холодильник
-│   │   ├── fridge.py
+│   │   └── fridge.py
 │   ├── text_encrypter/             # Шифратор Евклида
-│   │   ├── textencrypter.py
+│   │   └── textencrypter.py
 │   ├── visetlitsa/                  # Игра "Виселица"
-│   │   ├── gallows.py
+│   │   └── gallows.py
 │   ├── practicing/     
-│   │   ├── touchingtheclasses.py   # Первое взаимодействие с классами
+│   │   └── touchingtheclasses.py   # Первое взаимодействие с классами
 │   ├── russian_roulette/           # Русская рулетка 
 │   │   ├── russianroulette.py
-│   │   ├── requirements.txt
+│   │   └── requirements.txt
 │   ├── passgen/                    # Генератор паролей
 │   │   ├── passgen.py
-│   │   ├── requirements.txt
+│   │   └── requirements.txt
 └── README.md                       # этот файл
 ```
