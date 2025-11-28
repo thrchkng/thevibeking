@@ -13,10 +13,12 @@ class Board:
     def make_move(self, row, col, player):
         self.board[row][col] = player
 
+    '''
     def display(self):
         for row in self.board:
             print('|'.join(row))
             print('-' * 5)
+    '''
 # gameparts/parts.py
 
     def is_board_full(self):
