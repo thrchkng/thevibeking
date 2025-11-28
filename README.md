@@ -59,6 +59,7 @@
 3. [**Телеграм-канал**](https://t.me/rchkngdm)
 4. [**Репозиторий**](https://github.com/thrchkng/thevibeking)
 5. [**GitVerse репозиторий**](https://gitverse.ru/thrchkng/thevibeking)
+6. [**Steam профиль**](https://steamcommunity.com/id/cezartop1gg)
 ## 📋 Структура проекта
 ```markdown
 thevibeking/
