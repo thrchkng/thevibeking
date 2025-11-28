@@ -65,7 +65,6 @@ thevibeking/
 ├── src/
 │   ├── tic_tac_toe/               # Игра "Крестики-нолики"
 │   │   ├── gameparts/
-│   │   │   ├── exceptions.py
 │   │   │   └── parts.py
 │   │   └── game.py
 │   ├── weather_informer/          # Телеграм-бот информирующий о погоде в выбранном месте
