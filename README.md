@@ -66,7 +66,8 @@ thevibeking/
 ├── src/
 │   ├── itismindblow/              # Проект по ИТИСу, убивший мои нервы:)
 │   │   ├── assignment.py
-│   │   ├──
+│   │   ├── dbpedia_modules.py
+│   │   ├── 
 │   ├── tic_tac_toe/               # Игра "Крестики-нолики"
 │   │   ├── gameparts/
 │   │   │   └── parts.py
