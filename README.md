@@ -64,6 +64,8 @@
 ```markdown
 thevibeking/
 ├── src/
+│   ├── itismindblow/              # Проект по ИТИСу, убивший мои нервы:)
+│   │   ├──
 │   ├── tic_tac_toe/               # Игра "Крестики-нолики"
 │   │   ├── gameparts/
 │   │   │   └── parts.py
