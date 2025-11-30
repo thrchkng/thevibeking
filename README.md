@@ -69,7 +69,7 @@ thevibeking/
 │   │   ├── dbpedia_modules.py
 │   │   ├── test.py
 │   │   ├── visualization.png
-│   │   ├── 
+│   │   └── dbpedia_results.json
 │   ├── tic_tac_toe/               # Игра "Крестики-нолики"
 │   │   ├── gameparts/
 │   │   │   └── parts.py
