@@ -103,5 +103,7 @@ thevibeking/
 │   ├── passgen/                    # Генератор паролей
 │   │   ├── passgen.py
 │   │   └── requirements.txt
+│   ├── rpgquest/
+│   │   ├──
 └── README.md                       # этот файл
 ```
