@@ -25,6 +25,7 @@
 - 🧲 Физика
 - 💻 Информатика
 - 📺 Техника
+- 🥞 Кулинария
 - 👾 Видеоигры
 
   [![Профиль Steam](https://img.shields.io/badge/Профиль_Steam-0a1b2b?style=for-the-badge&logo=steam&logoColor=1b9fff)](https://steamcommunity.com/id/cezartop1gg)
