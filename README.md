@@ -64,7 +64,7 @@
 thevibeking/
 ├── src/
 │   ├── unit_spacewar/             # Игра "Космо шутер"
-│   │   ├── 
+│   │   └── game.py
 │   ├── itismindblow/              # Проект по ИТИСу, убивший мои нервы:)
 │   │   ├── assignment.py
 │   │   ├── dbpedia_modules.py
