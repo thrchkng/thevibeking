@@ -68,7 +68,8 @@ thevibeking/
 │   ├── mini-games bot/            # Телеграм бот с минииграми
 │   │   ├── .env
 │   │   ├── bot.py
-│   │   ├──
+│   │   ├── config.py
+│   │   ├── 
 │   ├── unit_spacewar/             # Игра "Космо шутер"
 │   │   └── game.py
 │   ├── itismindblow/              # Проект по ИТИСу, убивший мои нервы:)
