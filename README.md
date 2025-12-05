@@ -65,6 +65,8 @@
 ```markdown
 thevibeking/
 ├── src/
+│   ├── mini-games bot/
+│   │   ├── 
 │   ├── unit_spacewar/             # Игра "Космо шутер"
 │   │   └── game.py
 │   ├── itismindblow/              # Проект по ИТИСу, убивший мои нервы:)
