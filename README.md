@@ -70,7 +70,7 @@ thevibeking/
 │   │   ├── bot.py
 │   │   ├── config.py
 │   │   ├── games.py
-│   │   ├── 
+│   │   └── requirements.txt
 │   ├── unit_spacewar/             # Игра "Космо шутер"
 │   │   └── game.py
 │   ├── itismindblow/              # Проект по ИТИСу, убивший мои нервы:)
