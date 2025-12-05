@@ -66,6 +66,7 @@
 thevibeking/
 ├── src/
 │   ├── mini-games bot/
+│   │   ├── .env
 │   │   ├── 
 │   ├── unit_spacewar/             # Игра "Космо шутер"
 │   │   └── game.py
